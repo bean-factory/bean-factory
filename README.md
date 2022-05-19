@@ -3,10 +3,10 @@
 [![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=F0B90D)](https://www.linux.org/)
 [![](https://img.shields.io/badge/Distro-Arch-informational?style=flat&logo=ArchLinux&logoColor=white&color=1793d1)](https://www.archlinux.org)
 
-<a href="javascript:void(null);">
+<a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kryptos-123&show_icons=true&theme=github_dark" />
 </a>
-<a href="javascript:void(null);">
+<a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kryptos-123&theme=github_dark" />
 </a>
 
