@@ -1,7 +1,11 @@
 ### Hi there 👋, I'm Kryptos! 
+<a href="https://kernel.org" target="_blank">
+  <img align="left" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=F0B90D" />
+</a>
 
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=F0B90D)](https://kernel.org)
-[![](https://img.shields.io/badge/Distro-Arch-informational?style=flat&logo=ArchLinux&logoColor=white&color=1793d1)](https://www.archlinux.org)
+<a href="https://archlinux.org" target="_blank">
+  <img align="left" src="https://img.shields.io/badge/Distro-Arch-informational?style=flat&logo=ArchLinux&logoColor=white&color=1793d1" />
+</a>
 
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kryptos-123&show_icons=true&theme=github_dark" />
