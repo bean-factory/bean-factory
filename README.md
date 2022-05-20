@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Kryptos! 
 
-[![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=F0B90D)](https://kernel.org)
-[![](https://img.shields.io/badge/Distro-Arch-informational?style=flat&logo=ArchLinux&logoColor=white&color=1793d1)](https://www.archlinux.org)
+[![](https://img.shields.io/badge/OS-Linux%20%2F%20Windows%2010-informational?style=flat&logoColor=white&color=F0B90D)](https://kernel.org)
+[![](https://img.shields.io/badge/Distro-Bedrock-informational?style=flat&logoColor=white&color=d0d0d0)](https://www.archlinux.org)
+[![](https://img.shields.io/badge/PID%201-Arch%20Linux-informational?style=flat&logoColor=white&color=1793d1)](https://www.archlinux.org)
 
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kryptos-123&show_icons=true&theme=github_dark" />
@@ -9,18 +10,3 @@
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kryptos-123&theme=github_dark" />
 </a>
-
-<!--
-**Kryptos-123/Kryptos-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
